@@ -1,0 +1,33 @@
+body {
+	background-image: url(http://cdn.wallpapersafari.com/63/93/tvNhoG.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-attachment: fixed;
+}
+
+#row1> .col-md-12{
+	text-align: center;
+}
+
+#row3> .col-md-8{
+
+}
+
+#row6> .col-md-3 {
+border-left: 5px transparent solid;
+border-right: 5px transparent solid;
+}
+ table{
+	background-color: white;
+	width: 100%;
+}
+
+li a:hover {
+	background-color: #111;
+}
+#row2> .col-md-12 {
+	width: 100%;
+}
+
+
+
